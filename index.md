@@ -3,7 +3,6 @@ layout: page
 title: You\'re doing it wrong
 tagline: oh hai
 ---
-{% include JB/setup %}
 
 <ul class="posts">
   {% for post in site.posts %}
