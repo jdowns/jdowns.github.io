@@ -1,7 +1,7 @@
 ---
 layout: page
-title: You\'re doing it wrong
-tagline: oh hai
+title: 
+tagline: 
 ---
 
 <ul class="posts">
